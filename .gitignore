@@ -66,3 +66,21 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Large local media samples
+media/
+samples/
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.mp3
+*.aac
+*.flac
+*.wav
